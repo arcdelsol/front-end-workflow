@@ -1,0 +1,346 @@
+[33mcommit 329b5e25cd9a6fcd30a3695e4417219646d633f1[m
+Author: shajed Evan <evanshajed@gmail.com>
+Date:   Tue May 26 16:19:26 2015 +0600
+
+    adding .gitignore
+
+[33mcommit 847110271520ca5b47c06c1f9eb3ac04cab5c045[m
+Author: Shajed Evan <evan@escenic.com>
+Date:   Sun May 24 01:03:19 2015 +0600
+
+    Added HTML Minify task, details article section completed
+
+[33mcommit 818f26c309a4ad413c31059d9ef261270d19d0af[m
+Author: Shajed Evan <evan@escenic.com>
+Date:   Sat May 23 22:49:42 2015 +0600
+
+    Writing detailed user doc
+
+[33mcommit 9a7c405a1035d6134f61fd9d8ccac801096ea153[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 19 18:05:39 2015 +0600
+
+    Fixing dependencies
+
+[33mcommit 33944217186ba65d219a43679aa3395e299c3195[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 12 02:00:05 2015 +0600
+
+    Fixing environment variable for Travis CLI
+
+[33mcommit 7595f06cf84a30bb3b57432f2ac080e48d582a3d[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 12 01:44:02 2015 +0600
+
+    Fixing node engine version from 0.10.x
+
+[33mcommit e26df0bdef8d22e981292c2c14471ba73bb89d8d[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 12 00:29:42 2015 +0600
+
+    Adding more resources
+
+[33mcommit fa46a704946ee3856ec2e52d5e8e684eaefcb873[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 12 00:26:18 2015 +0600
+
+    Removing unnecessary files, adding new packages and more task commands
+
+[33mcommit 309058ed1aa8e578fac3149def61cebe99995fc3[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Mon Jan 19 16:52:29 2015 +0100
+
+    Changes in bootstrap folder structure, bower config, typeplate structure fixes, calling right variables on app.css file and much more
+
+[33mcommit 4c11c55c3e4b4a49bc7bae5ecff404fde0c3bf3d[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Mon Jan 19 16:51:17 2015 +0100
+
+    ignoring .idea folders
+
+[33mcommit db41dbd6125624afc0dae8ba7a7fc832c6849f24[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Jun 7 23:48:13 2014 +0600
+
+    Fixing node versions for travis
+
+[33mcommit ddac5c96ccc8512db9ad75c3d2826e855119e229[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Jun 7 23:19:20 2014 +0600
+
+    Fixing node engine version
+
+[33mcommit 7a9a7e8b2e9ef916ecabb334956d95055809d007[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Mon Jun 2 23:13:41 2014 +0600
+
+    Creating User How To Doc Index
+
+[33mcommit d82c30a138011655a3b3a4d57f858de6bc7754c1[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Tue May 6 10:08:29 2014 +0600
+
+    adding typography fixes
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit fd868b40da8956ce00ce87738050fba9c0f621a0[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 27 05:10:31 2014 +0600
+
+    Changed typography.html structure
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit 734078fa800671f1f0fedc5dbc185825a9d2a3c4[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 27 04:45:46 2014 +0600
+
+    Jade Included and Running with default grunt command
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit f2fea64dfc2e561a2e0ef1520fc56b067f94b8bc[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 20 17:30:20 2014 +0600
+
+    making grunt groc github true
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit b8f37e85f46062306a9bb8bf56a08f1c876b2e66[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 20 17:27:01 2014 +0600
+
+    Including Front-End Workflow logo
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit 6b0ad64d4a01eb544264cc81483fb377ed01f83d[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Apr 20 01:14:04 2014 +0600
+
+    changes made on read me file to include TOC
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit 22111e139e01e5981d865a6196ef6448c9d4d5a9[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Thu Apr 10 14:14:17 2014 +0600
+
+    publishing into github pages
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit 482d7dc8cd339681abdfbdd88752f339d6a0533b[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Thu Apr 10 14:12:32 2014 +0600
+
+    Mode detailed Readme.md file for developers
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit e4c072cc4a378297a0df11325311bd0cd8561065[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Mon Apr 7 16:40:58 2014 +0600
+
+    fixing package.json, adding doc into master, updated grunt file.js
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit e14c081feb71a931ac3120d245a1f3544c1d81f8[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Mon Apr 7 11:06:58 2014 +0600
+
+    adding modify and other scss components
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit f117d99712da568d64cb1b076933a67e737457ab[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Wed Apr 2 22:11:58 2014 +0600
+
+    Added mixitup js
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit e7ef229e453e794e08242a16726cf2320ad0651b[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Tue Apr 1 17:15:06 2014 +0600
+
+    grunt.js fix
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit 1e6334a527996eedf24780be834d64513f7cc0ba[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Tue Apr 1 17:12:34 2014 +0600
+
+    version 0.1.1
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit 4765923f1d3dd21408c8a33d524aea8089e81996[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Tue Apr 1 17:11:57 2014 +0600
+
+    Imagemin package problem fixed. Responsive image task added
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit 00f5766e9350bc1f3164952ddca1e79153875873[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sun Mar 30 01:53:23 2014 +0600
+
+    Added color scss
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit 9816b061416a2734d165a204f58fef1eefce77e3[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Mar 29 02:55:16 2014 +0600
+
+    update travis
+
+[33mcommit 76bcda3da9ce0eb97ea81b2d833ab0615d192f32[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Mar 29 02:53:08 2014 +0600
+
+    updating the node engine
+
+[33mcommit d8dfef3b0e31e8bdfcf962c083156af853f08d59[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Mar 29 01:24:39 2014 +0600
+
+    Fixing packages
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+
+[33mcommit 4edb9b9b4fea921e1b64fe74273b2abfc1442d7d[m
+Merge: d5bcaa0 da6d813
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Mar 29 01:15:24 2014 +0600
+
+    Merge remote-tracking branch 'origin/master'
+    
+    Signed-off-by: Shajed Evan <evanshajed@gmail.com>
+    
+    Conflicts:
+    	package.json
+
+[33mcommit d5bcaa0b23aa6569cda6b76e360a19c30f2946b6[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Mar 29 01:10:33 2014 +0600
+
+    Merge branch 'master' of https://github.com/themestent/front-end-workflow
+    
+    Conflicts:
+    	package.json
+
+[33mcommit da6d813f7777d0ab6b8fcd2c69fdfa9c09fc56ae[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Mar 22 02:59:04 2014 +0600
+
+    update packages
+
+[33mcommit 9509fd536da0ba89e1e1dae9a977d378440e7a9e[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Fri Mar 21 18:08:08 2014 +0600
+
+    Added new components, fixed concats with plugins
+
+[33mcommit df445599ae03acb89808012165ff4d1090dc8b2d[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Jan 11 02:23:39 2014 +0600
+
+    updating latest sources
+
+[33mcommit 569df287b5a243403b4ebc1c9dd2f3b01b380b7d[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Jan 11 02:07:14 2014 +0600
+
+    Adding Neat as Bourbon dependencies
+
+[33mcommit 1e16884611148071f0d99990565ab5baf20b273a[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Sat Jan 11 02:04:04 2014 +0600
+
+    removing unwanted files and folders
+
+[33mcommit b712df4d7eb2c04a54a691cd63d20674975b9469[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Mon Jan 6 16:11:20 2014 +0600
+
+    Adding Doc for EditorConfig, packages.json and readme.md file
+
+[33mcommit 613b1b599d8cb612fb5520d48c6c3bd8e39b1b8c[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Fri Jan 3 18:12:54 2014 +0600
+
+    fixing script spacing error
+
+[33mcommit 970c651f529bb8ff35438a717002b08a893e3e37[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Fri Jan 3 18:03:57 2014 +0600
+
+    publishing into gh-pages
+
+[33mcommit 55e6839948a53107ee1c4f7a0164d00f95ac26df[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Fri Jan 3 18:00:41 2014 +0600
+
+    Added CssLint documentation
+
+[33mcommit 5d20f936f8b5350793404102b21ac227da237746[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Fri Jan 3 16:27:11 2014 +0600
+
+    Confirming Jade and Groc version fixes to generate documentation
+
+[33mcommit f815ae044736e15c14a9f55c28f6205382209f77[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Fri Jan 3 11:40:17 2014 +0600
+
+    updating package
+
+[33mcommit 9b34e9bbb926fb25d5930aa0576f6481d4e0d45e[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Thu Jan 2 15:32:37 2014 +0600
+
+    Adding fallback dependencies for JAde
+
+[33mcommit 73eb113ea869185c9d8d87d556ce9ceec0db2a1f[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Wed Jan 1 17:55:54 2014 +0600
+
+    adding devDependencies badge
+
+[33mcommit dd2a0745c06236f45d65831817ec9b26fa7a6777[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Wed Jan 1 15:39:35 2014 +0600
+
+    Making groc available for github pages
+
+[33mcommit 8b0a5ef7e4ccde6c7efd628331be5cd8b83291d8[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Wed Jan 1 15:36:23 2014 +0600
+
+    Testing Groc Doc
+
+[33mcommit 431936e998bf6e87514c43be871cda32ef5bcccf[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Wed Jan 1 15:34:19 2014 +0600
+
+    Sync with npm-shrinkwrap.json
+
+[33mcommit ad7c7e9cd13e9ab0d37befd6c90632d2fdfbc109[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Wed Jan 1 15:03:49 2014 +0600
+
+    Re-initialising the repo again
+
+[33mcommit 9dd185161ca4823e6d828c82792ea598acc2393c[m
+Author: Shajed Evan <evanshajed@gmail.com>
+Date:   Wed Jan 1 02:58:28 2014 +0600
+
+    Initial Commit with Basic Files
